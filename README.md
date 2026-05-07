@@ -13,6 +13,7 @@ Currently, the repository includes simulations for:
 - **Coherent Detector**
   - `LTspice_Coherent_detector/`: Simulation files for LTspice.
   - `Proteus_Coherent_detector/`: Simulation files for Proteus.
+  - `Schmitt_trigger/`: Simulation files for LTspice.
 
 *More circuits will be added as I progress through my coursework!*
 
